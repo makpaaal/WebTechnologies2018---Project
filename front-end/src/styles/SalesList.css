@@ -1,0 +1,9 @@
+.SalesTable{
+	border-bottom-width: 1;
+	table align: center;
+	background-color: #F67280;
+}
+
+.SaleItem{
+	width: 450pt
+}
